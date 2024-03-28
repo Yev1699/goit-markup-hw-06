@@ -435,13 +435,7 @@ img {
     max-width: 1158px;
   } */
   /* =================BENEFITS SECTION========== */
-  .section-benefits {
-    display: flex;
 
-    width: 1440px;
-    height: 464px;
-    padding: 0;
-  }
   .container {
     width: 1158px;
     padding: 0 15px;
